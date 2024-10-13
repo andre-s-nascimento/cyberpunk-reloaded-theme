@@ -3,6 +3,26 @@
   "displayName": "cyberpunk-reloaded-theme",
   "description": "A cyberpunk theme based on JWSandeman's Cyberpunk 2077",
   "version": "0.0.1",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/andre-s-nascimento/cyberpunk-reloaded-theme"
+	},
+  "keywords": [
+		"theme",
+		"dark theme",
+    "andre-s-nascimento",
+		"jwsandeman",
+		"cyberpunk2077",
+		"cyberpunk2077-theme",
+		"cyberpunk",
+		"darcula",
+		"abyss",
+		"atlantic night",
+		"moonlight",
+		"palenight",
+		"night owl",
+		"lucy"
+	],
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -14,7 +34,7 @@
       {
         "label": "Cyberpunk 2077 Reloaded",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cyberpunk 2077 Reloaded-color-theme.json"
+        "path": "./themes/cyberpunk2077-reloaded-color-theme.json"
       }
     ]
   }
