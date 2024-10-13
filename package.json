@@ -1,0 +1,21 @@
+{
+  "name": "cyberpunk-reloaded-theme",
+  "displayName": "cyberpunk-reloaded-theme",
+  "description": "A cyberpunk theme based on JWSandeman's Cyberpunk 2077",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk 2077 Reloaded",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberpunk 2077 Reloaded-color-theme.json"
+      }
+    ]
+  }
+}
