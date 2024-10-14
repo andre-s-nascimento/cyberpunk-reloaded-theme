@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.0.0
+
+- Added logo.
+
 ## Version 0.0.2
 
 - Initial release of **Cyberpunk 2077 Reloaded** theme with correct name.
