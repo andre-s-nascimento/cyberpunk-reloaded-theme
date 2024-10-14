@@ -1,8 +1,9 @@
 # Changelog
 
-## Version 1.0.0
+## Version 1.0.1
 
 - Added logo.
+- Correct json path
 
 ## Version 0.0.2
 
