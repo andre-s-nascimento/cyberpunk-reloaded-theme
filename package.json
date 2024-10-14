@@ -1,8 +1,8 @@
 {
   "name": "cyberpunk-reloaded-theme",
-  "displayName": "cyberpunk-reloaded-theme",
+  "displayName": "Cyberpunk 2077 Reloaded",
   "description": "A cyberpunk theme based on JWSandeman's Cyberpunk 2077",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "andre-s-nascimento",
   "repository": {
     "type": "git",
