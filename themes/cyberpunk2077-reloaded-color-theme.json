@@ -134,7 +134,7 @@
     "list.hoverForeground": "#37EBF3",
     "list.inactiveSelectionBackground": "#27293230",
     "list.inactiveSelectionForeground": "#37EBF3",
-    "list.errorForeground": "#D62246",
+    "list.errorForeground": "#FF9A9A",
     "list.warningForeground": "#84ff00",
     "listFilterWidget.background": "#27293230",
     "listFilterWidget.noMatchesOutline": "#27293230",
