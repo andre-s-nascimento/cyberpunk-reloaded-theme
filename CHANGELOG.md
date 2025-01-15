@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 1.0.3
+
+- Adjust `list.errorForeground` property color
+
+## Version 1.0.2
+
+- Added support for older version
+
 ## Version 1.0.1
 
 - Added logo.
